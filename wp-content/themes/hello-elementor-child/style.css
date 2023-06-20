@@ -1,0 +1,46 @@
+/*
+Theme Name:   hello-elementor-child
+Theme URI:    http://example.com/twenty-fifteen-child/
+Description:  it is child Theme of hello elementor
+Author:       Ashish Goutam
+Author URI:   http://example.com
+Template:     hello-elementor
+Version:      1.0.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+Text Domain:  helloelementorchild
+*/
+
+
+
+.elementor-column-gap-default .elementor-column .elementor-element-populated{
+    padding: 0% !important;
+}
+/* a {
+    background-color: transparent;
+    text-decoration: none;
+    color: #0c09df !important;
+} */
+
+.imgrepeater{
+    width: 300px !important;
+}
+
+.navcol{
+    color:  #c36 !important;
+    text-decoration: none !important;
+}
+
+#navc{
+    color:  #c36 !important;
+    text-decoration: none !important;
+  }
+
+.site-navigation ul.menu li a {
+    display: block;
+    padding: 6px 9px;
+    text-decoration: none;
+    color: #c36;
+    font-size: 22px;
+}
